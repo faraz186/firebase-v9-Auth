@@ -1,0 +1,11 @@
+#proList{
+    display: flex;
+    justify-content: space-around;
+}
+
+.proCon{
+    width: 20%;
+    height:250px;
+    border: 1px solid black;
+
+}
